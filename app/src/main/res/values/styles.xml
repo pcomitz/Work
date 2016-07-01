@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <!--primary theme color sets background color of app bar -->
+        <item name="colorPrimary">#FF9800</item>
+
+        <!--backgrond color of Buttons in app
+        requires API 22 or above, older phones will not be colored
+        -->
+        <item name="colorButtonNormal">#FF9800</item>
+    </style>
+
+</resources>
